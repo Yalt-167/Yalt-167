@@ -17,4 +17,4 @@
 ## Stats
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yalt-167&theme=ayu_mirage)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yalt-167&theme=ayu_mirage)
+
